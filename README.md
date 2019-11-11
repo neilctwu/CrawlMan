@@ -2,11 +2,11 @@
 News crawler for NLP data preparation
 
 ## Super short introduction
----
 **ParentParser** for url list crawling
 **ChildParser** for url content crawling
 
 ## Input features
+### css_selecotr.example.py
 ```
 url = 'https://example.com/'  # <Pseudo url, for saving
 subpage = 'folder/some'  # List url, ParentParser crawling from https://example.com/folder/some
