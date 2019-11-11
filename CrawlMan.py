@@ -4,7 +4,7 @@ from src.Logger import Logger
 from src.utils.tools import random_sleep
 import random
 
-from css_selectors.livedoor import features, url, subpage, selectors, url_changer
+from css_selectors.example import features, url, subpage, selectors, url_changer
 
 
 if url[-1] is not '/':
